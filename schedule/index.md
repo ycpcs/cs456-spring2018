@@ -12,14 +12,16 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 -   For articles in **Communications of the ACM** and other journals, select *Articles* from the side bar and use *Academic Search Complete*.
 
 
->  Date   |      Topic      |                                    Reading                                             |
-> ------- | --------------  | -------------------------------------------------------------------------------------- |
-> Jan 23  | Introduction    | *Four Ethical Issues of the Information Age*, Richard O. Mason (MIS Quarterly - 3/86)  |
-> Jan 25  | Profession      | *Computing Is a Profession*, Andrew A. Chien (ACM - 10/17) <br /> *ACM Code of Ethics: A Guide for Positive Action*, Don Gotterbarn, Amy Bruckman, Catherine Flick, Keith Miller, Marty J. Wolf (ACM - 1/18) <br /> [The Pledge of The Computing Professional](http://pledge-of-the-computing-professional.org/home-page/the-oath) |
-> Jan 30  | Responsibility  | *Four Ways to Make CS and IT More Immersive*, Thomas A. Limoncelli (ACM - 10/17) <br /> *Toward Algorithmic Transparency and Accountability*, Simson Garfinkel, Jeanna Matthews, Stuart S. Shapiro, Jonathan M. Smith (ACM - 9/17) <br /> *Assuring Software Quality By Preventing Neglect*, Robin K. Hill (ACM - 9/17) <br /> *Breadth and Depth*, Kate Matsudaira (ACM - 11/17) |
-> Feb 1   | IP - Copyrights | *Intellectual Property, Part I*, Gaff, Loren, and McCool (IEEE - 1/12) <br /> *New Exemptions to Anti-Circumvention Rules*, Pamela Samuelson (ACM - 3/16) <br /> *Who Owns the Social Web?*, Catherine C. Marshall, Frank M. Shipman (ACM - 5/17) |
-> Feb 6   | IP - Patents    | *Why Do Software Startups Patent (or Not)?*, Pamela Samuelson (ACM - 11/10) <br/> *Software Patents Are Falling Down*, Pamela Samuelson (ACM - 11/15) <br /> *Disgorging Profits in Design Patent Cases*, Pamela Samuelson (ACM - 11/17) <br /> *Do Patent Commons and Standards-Setting Organizations Help Navigate Patent Thickets?*, Wen Wen and Chris Forman (ACM - 5/16) |
-> Feb 8   | Privacy - I     | *The Tangled Web We Have Woven*, Eben Moglen (ACM - 2/13) <br /> *Privacy is Dead, Long Live Privacy*, Jean-Pierre Hubaux and Ari Juels (ACM - 6/16) <br /> *When Does Law Enforcement's Demand to Read Your Data Become a Demand to Read Your Mind?*, Andrew Conway and Peter Eckersley (ACM - 9/17) | 
+>  Date   |      Topic          |                                    Reading                                             |
+> ------- | ------------------  | -------------------------------------------------------------------------------------- |
+> Jan 23  | Introduction        | *Four Ethical Issues of the Information Age*, Richard O. Mason (MIS Quarterly - 3/86)  |
+> Jan 25  | Profession          | *Computing Is a Profession*, Andrew A. Chien (ACM - 10/17) <br /> *ACM Code of Ethics: A Guide for Positive Action*, Don Gotterbarn, Amy Bruckman, Catherine Flick, Keith Miller, Marty J. Wolf (ACM - 1/18) <br /> [The Pledge of The Computing Professional](http://pledge-of-the-computing-professional.org/home-page/the-oath) |
+> Jan 30  | Responsibility      | *Four Ways to Make CS and IT More Immersive*, Thomas A. Limoncelli (ACM - 10/17) <br /> *Toward Algorithmic Transparency and Accountability*, Simson Garfinkel, Jeanna Matthews, Stuart S. Shapiro, Jonathan M. Smith (ACM - 9/17) <br /> *Assuring Software Quality By Preventing Neglect*, Robin K. Hill (ACM - 9/17) <br /> *Breadth and Depth*, Kate Matsudaira (ACM - 11/17) |
+> Feb 1   | IP - Copyrights     | *Intellectual Property, Part I*, Gaff, Loren, and McCool (IEEE - 1/12) <br /> *New Exemptions to Anti-Circumvention Rules*, Pamela Samuelson (ACM - 3/16) <br /> *Who Owns the Social Web?*, Catherine C. Marshall, Frank M. Shipman (ACM - 5/17) |
+> Feb 6   | IP - Patents        | *Why Do Software Startups Patent (or Not)?*, Pamela Samuelson (ACM - 11/10) <br/> *Software Patents Are Falling Down*, Pamela Samuelson (ACM - 11/15) <br /> *Disgorging Profits in Design Patent Cases*, Pamela Samuelson (ACM - 11/17) <br /> *Do Patent Commons and Standards-Setting Organizations Help Navigate Patent Thickets?*, Wen Wen and Chris Forman (ACM - 5/16) |
+> Feb 8   | Privacy - I         | *The Tangled Web We Have Woven*, Eben Moglen (ACM - 2/13) <br /> *Privacy is Dead, Long Live Privacy*, Jean-Pierre Hubaux and Ari Juels (ACM - 6/16) <br /> *When Does Law Enforcement's Demand to Read Your Data Become a Demand to Read Your Mind?*, Andrew Conway and Peter Eckersley (ACM - 9/17) | 
+> Feb 13  | Privacy - II        | *Can You Engineer Privacy?*, Seda Gurses (ACM - 8/14) <br /> *More Encryption Means Less Privacy*, Poul-Henning Kamp (ACM - 4/16) <br /> *Welcome to the Singularity*, David Allen Batchelor (ACM - 2/18) | 
+> Feb 15  | **EXAM I PART I**   |  | 
 
 
 

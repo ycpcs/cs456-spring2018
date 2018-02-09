@@ -17,6 +17,8 @@ All information about the course will be posted here.
 
 ## News
 * **Jan 18** - Welcome back!
+* **Feb 15** - Exam 1 Part 1 Discussion
+* **Feb 20 - Exam 1 Part 1 Due** email a .pdf to dbabcock@ycp.edu by 9:30am
 
 
 <!--
