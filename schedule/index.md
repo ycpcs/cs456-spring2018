@@ -26,7 +26,8 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Feb 22  | Security - II       | *I Can't Let You Do That, Dave*, Cory Doctorow (ACM - 12/15) **NOTE: This is the Dec 2015 article** <br /> *Security Assurance*, Steven B. Lipner (ACM - 11/15) <br /> *Trustworthiness and Truthfulness Are Essential*, Peter G. Neumann (ACM - 6/17) <br /> *IoT: The Internet of Terror*, George V. Neville-Neil (ACM - 10/17)|  
 > Mar 6   | Individual          | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Does the Internet Make Us Stupid?*, Hermann Maurer (ACM - 1/15)  <br /> *Portable Device Fears Show Power of Social Development*, Chris Edwards (ACM - 10/17) |  
 > Mar 8   | Society             | *Beyond Viral*, Manuel Cebrian, Iyad Rahwan, and Alex "Sandy" Pentland (ACM - 4/16) <br /> *Smartphone Apps for Social Good*, Logan Kugler (ACM - 8/16)  <br /> *Digitocracy*, Joel R. Reidenberg (ACM - 9/17) |  
-
+>         | *Cryptocurrency* <br /> Drevon Reid, Rob Jones | |
+>         | *Net Neutrality* <br /> Mark Mayne, Josh Amoros | |
 
 
 
