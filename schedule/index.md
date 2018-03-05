@@ -27,7 +27,15 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Mar 6   | Individual          | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Does the Internet Make Us Stupid?*, Hermann Maurer (ACM - 1/15)  <br /> *Portable Device Fears Show Power of Social Development*, Chris Edwards (ACM - 10/17) |  
 > Mar 8   | Society             | *Beyond Viral*, Manuel Cebrian, Iyad Rahwan, and Alex "Sandy" Pentland (ACM - 4/16) <br /> *Smartphone Apps for Social Good*, Logan Kugler (ACM - 8/16)  <br /> *Digitocracy*, Joel R. Reidenberg (ACM - 9/17) |  
 >         | *Cryptocurrency* <br /> Drevon Reid, Rob Jones | |
->         | *Net Neutrality* <br /> Mark Mayne, Josh Amoros | |
+>         | *Net neutrality* <br /> Mark Mayne, Josh Amoros | |
+>         | *Fixing bugs or forcing updates* <br /> Alex Brown, Aaron Walsh | |
+>         | *Self driving cars* <br /> Jake Majeski, Brandon Longenecker | |
+>         | *Future of computing* <br /> Mat Jones, Greg Oliff | |
+>         | *AI* <br /> Brett Harmon, Logan Harris | |
+>         | *Home device surveillance* <br /> Liam Hurd, Hunter Willingham | |
+>         | *Professional ethics and open source* <br /> Kyle Barley, Nick Sarzynski | |
+>         | *Gaming ethics* <br /> Kaz Turowski, Melissa Morrison | |
+
 
 
 
