@@ -27,7 +27,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Mar 6   | Individual          | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Does the Internet Make Us Stupid?*, Hermann Maurer (ACM - 1/15)  <br /> *Portable Device Fears Show Power of Social Development*, Chris Edwards (ACM - 10/17) |  
 > Mar 8   | Society             | *Beyond Viral*, Manuel Cebrian, Iyad Rahwan, and Alex "Sandy" Pentland (ACM - 4/16) <br /> *Smartphone Apps for Social Good*, Logan Kugler (ACM - 8/16)  <br /> *Digitocracy*, Joel R. Reidenberg (ACM - 9/17) |  
 > Mar 13  | **EXAM I PART II**  | |
-> Mar 20  | *AI* <br /> Brett Harmon, Logan Harris | |
+> Mar 20  | *AI* <br /> Brett Harmon, Logan Harris | [BENEFITS & RISKS OF ARTIFICIAL INTELLIGENCE](https://futureoflife.org/background/benefits-risks-of-artificial-intelligence/) <br /> [Who’s to blame when artificial intelligence systems go wrong?](http://theconversation.com/whos-to-blame-when-artificial-intelligence-systems-go-wrong-45771) <br /> [Who's liable for decisions AI and robotics make?](https://betanews.com/2017/03/21/artificial-intelligence-robotics-liability/) <br /> |
 > Mar 22  | *Cryptocurrency* <br /> Drevon Reid, Rob Jones | |
 > Mar 27  | *Net neutrality* <br /> Mark Mayne, Josh Amoros | |
 > Apr 3   | *Future of computing* <br /> Mat Jones, Greg Oliff | |
