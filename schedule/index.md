@@ -33,7 +33,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Mar 22  | **NO CLASS - WEATHER** | |
 > Mar 27  | *Cryptocurrency* <br /> Drevon Reid, Rob Jones | *The Market For Cryptocurrencies*, Lawrence H. White (CATO Journal - 4/15) <br /> [Israel Confirms It Will Tax Bitcoin as Property](https://www.coindesk.com/israel-confirms-will-tax-bitcoin-property/) <br /> [U.S. Congress Officially Supports Blockchain Technology](https://www.astralcrypto.com/2018/03/19/u-s-congress-officially-supports-blockchain-technology/) <br /> [We Need To Shut Bitcoin And All Other Cryptocurrencies Down. Here's Why.](https://www.forbes.com/sites/jasonbloomberg/2018/03/10/we-need-to-shut-bitcoin-and-all-other-cryptocurrencies-down-heres-why/#2db8cba41bca) <br /> [Forget Bitcoin, It's All About The Blockchain](https://www.forbes.com/sites/jamiemoy/2018/02/22/forget-bitcoin-its-all-about-the-blockchain/#6e4985b75f6b) |
 > Mar 29  | **NO CLASS - SPRING BREAK** | |
-> Apr 3   | *Net neutrality* <br /> Mark Mayne, Josh Amoros | |
+> Apr 3   | *Net neutrality* <br /> Mark Mayne, Josh Amoros | *Net Neutrality vs. Net Neutering*, Hal Berghel (IEEE - 3/16) <br /> *FCC votes to kill net neutrality in an unsurprising move. What happens now?*, Michael Simon (Macworld - 2/18)  |
 > Apr 5   | *Future of computing* <br /> Mat Jones, Greg Oliff | |
 > Apr 10  | *Fixing bugs or forcing updates* <br /> Alex Brown, Aaron Walsh | |
 > Apr 12  | *Home device surveillance* <br /> Liam Hurd, Hunter Willingham | |
